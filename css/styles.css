@@ -2,13 +2,14 @@
 
 body {
     background-color: #EAEAEA;
+    font-family: Arial, Helvetica, sans-serif;
 }
 hr {
     border-color: grey;
     border-style: none;
     border-top-style: dotted;
-    border-width: 10px;
-    width: 10%;
+    border-width: 8px;
+    width: 20%;
 }
 h1 {
     color: #252A34;
