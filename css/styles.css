@@ -22,3 +22,8 @@ h3 {
 .profile {
     border-radius: 5px;
 }
+
+/* ID SELECTORS*/
+#heading {
+    color:aquamarine;
+}
